@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ayel</string>
+    <string name="title_activity_main_window">MainWindow</string>
+    <string name="tab_text_1">Main</string>
+    <string name="tab_text_2">Info</string>
+    <string name="tab_text_3">Settings</string>
+
+</resources>
